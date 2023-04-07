@@ -7,9 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2023-04-07
+
 ### Added 
 
 - Added support for the RGB color space and its various profiles.
+- Added support for the HSL color space.
+- Added support for the HSV color space.
+- Added support for the Jab color space.
+- Added support for the Jch color space.
+- Added support for the Lab color space.
+- Added support for the Lch color space.
+- Added support for the OkLab color space.
+- Added support for the OkLch color space.
 
 ## [1.0.1] - 2023-04-06
 

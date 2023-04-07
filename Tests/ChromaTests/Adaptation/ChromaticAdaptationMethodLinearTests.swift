@@ -2,8 +2,8 @@
 //  ChromaticAdaptationMethodLinearTests.swift
 //  Chroma
 //
-//  Created by Solar Design System (Marxon13) on 12/20/21
-//  Copyright (c) 2020 Solar Design System (Marxon13)
+//  Created by Solar Design System on 12/20/21
+//  Copyright (c) 2020 Solar Design System 
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal
