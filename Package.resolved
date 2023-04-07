@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SolarDesignSystem/Matrix-Swift.git",
       "state" : {
-        "revision" : "8d8961b95a0ad577eb17108158173abf96451b9e",
-        "version" : "1.0.5"
+        "revision" : "31906c36ec823bc37190b7aebbd493b6ae7230a1",
+        "version" : "1.0.6"
       }
     },
     {
