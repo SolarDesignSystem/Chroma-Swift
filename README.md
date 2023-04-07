@@ -4,4 +4,4 @@ Chroma provides a comprehensive set of algorithms and datasets for color science
 
 ## Documentation
 
-Documentation can be found on [Github Pages](https://solardesignsystem.github.io/Chroma-Swift/documentation/chroma/) or the [Swift Package Index]().
+Documentation can be found on [Github Pages](https://solardesignsystem.github.io/Chroma-Swift/documentation/chroma/) or the [Swift Package Index](https://swiftpackageindex.com/SolarDesignSystem/Chroma-Swift/1.0.1/documentation/chroma).
